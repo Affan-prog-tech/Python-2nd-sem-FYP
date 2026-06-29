@@ -1,0 +1,17 @@
+username,date,type,category,amount
+Affan,1/3/2026,expense,Food,1000
+Affan,1/7/2026,expense,Transport,250
+Affan,1/9/2026,expense,Bills,1000
+Affan,1/15/2026,expense,Rent,2000
+Affan,2/1/2026,income,Salary,2000
+Affan,2/4/2026,expense,Food,1000
+Affan,2/7/2026,expense,Transport,500
+Affan,2/12/2026,expense,Bills,200
+Affan,2/19/2026,expense,Shopping,300
+Affan,2/25/2026,expense,Shopping,800
+Affan,3/1/2026,income,Salary,5000
+Affan,3/3/2026,expense,Food,2000
+Affan,3/13/2026,expense,Transport,2450
+Affan,3/14/2026,expense,Bills,3000
+Affan,3/19/2026,expense,Rent,500
+Affan,3/31/2026,expense,Shopping,200
